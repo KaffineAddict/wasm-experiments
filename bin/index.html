@@ -1,0 +1,60 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <script src="wasm_exec.js"></script>
+    <title>WASM Experiments</title>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Mono"/>
+    <style>
+        h1 {
+            font-family: "Ubuntu Mono",monospace;
+            font-size: 36px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: 700;
+            line-height: 26.4px;
+        }
+        pre {
+            font-family: "Ubuntu Mono",monospace;
+            font-size: 26px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: 400;
+            line-height: 18.5714px;
+        }
+    </style>
+</head>
+<body style="margin: 25px;">
+<h1>Testing WASM Interop</h1>
+<div id="console-logger" style="font-family: ui-monospace;"></div>
+</body>
+<script>
+    let logger = console.log;
+    let page_console = document.getElementById('console-logger');
+
+    console.log = function () {
+        let message = [].join.call(arguments, ' ');
+        page_console.innerHTML = '<pre>' + message + '</pre>' + page_console.innerHTML;
+        logger.apply(console, arguments);
+    };
+
+    const go = new Go();
+    WebAssembly.instantiateStreaming(fetch("hello_world.wasm"), go.importObject)
+        .then((result) => {
+            go.run(result.instance);
+        });
+
+    WebAssembly.instantiateStreaming(fetch("hello_user.wasm"), go.importObject)
+        .then((result) => {
+            go.run(result.instance);
+        }).then(() => {
+        console.log(helloUserInterop("Interoperator"));
+        console.log(helloUserInterop("Interoperator", "Second"));
+    });
+
+    WebAssembly.instantiateStreaming(fetch(".wasm"), go.importObject)
+        .then((result) => {
+            go.run(result.instance);
+            console.log(wasm.ex)
+        });
+</script>
+</html>
