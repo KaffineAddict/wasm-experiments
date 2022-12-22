@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "NkyoTfePpbikBSXBJh1hpBUIHq+Osws7W+Mv6YuDg/iIVJ/3AwRdSiwP45qLuvLAtC4ZHx06oIRWs9bfNkE3/g==",
+  "success": false,
+  "projectFilePath": "C:\\code\\cs\\HelloWasm\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.win-x64.Microsoft.DotNet.ILCompiler.LLVM. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "runtime.win-x64.Microsoft.DotNet.ILCompiler.LLVM",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.DotNet.ILCompiler.LLVM. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "Microsoft.DotNet.ILCompiler.LLVM",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

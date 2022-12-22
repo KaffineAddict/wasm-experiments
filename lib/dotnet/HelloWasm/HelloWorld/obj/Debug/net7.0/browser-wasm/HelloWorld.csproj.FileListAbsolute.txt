@@ -1,0 +1,14 @@
+c:\code\cs\HelloWasm\HelloWorld\bin\Debug\net7.0\browser-wasm\HelloWorld.deps.json
+c:\code\cs\HelloWasm\HelloWorld\bin\Debug\net7.0\browser-wasm\HelloWorld.runtimeconfig.json
+c:\code\cs\HelloWasm\HelloWorld\bin\Debug\net7.0\browser-wasm\HelloWorld.dll
+c:\code\cs\HelloWasm\HelloWorld\bin\Debug\net7.0\browser-wasm\HelloWorld.pdb
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\HelloWorld.csproj.AssemblyReference.cache
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\HelloWorld.AssemblyInfoInputs.cache
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\HelloWorld.AssemblyInfo.cs
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\HelloWorld.csproj.CoreCompileInputs.cache
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\HelloWorld.dll
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\refint\HelloWorld.dll
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\HelloWorld.pdb
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\HelloWorld.genruntimeconfig.cache
+c:\code\cs\HelloWasm\HelloWorld\obj\Debug\net7.0\browser-wasm\ref\HelloWorld.dll

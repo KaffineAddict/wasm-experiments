@@ -1,0 +1,4 @@
+c:\code\cs\HelloWasm\HelloWorld\bin\Debug\net7.0\browser-wasm\publish\HelloWorld.html
+c:\code\cs\HelloWasm\HelloWorld\bin\Debug\net7.0\browser-wasm\publish\HelloWorld.runtimeconfig.json
+c:\code\cs\HelloWasm\HelloWorld\bin\Debug\net7.0\browser-wasm\publish\HelloWorld.pdb
+c:\code\cs\HelloWasm\HelloWorld\bin\Debug\net7.0\browser-wasm\publish\HelloWorld.deps.json

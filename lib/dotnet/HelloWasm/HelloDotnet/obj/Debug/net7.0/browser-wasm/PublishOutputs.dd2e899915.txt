@@ -1,0 +1,3 @@
+c:\code\cs\HelloWasm\HelloDotnet\bin\Debug\net7.0\browser-wasm\publish\HelloDotnet.html
+c:\code\cs\HelloWasm\HelloDotnet\bin\Debug\net7.0\browser-wasm\publish\HelloDotnet.pdb
+c:\code\cs\HelloWasm\HelloDotnet\bin\Debug\net7.0\browser-wasm\publish\HelloDotnet.deps.json

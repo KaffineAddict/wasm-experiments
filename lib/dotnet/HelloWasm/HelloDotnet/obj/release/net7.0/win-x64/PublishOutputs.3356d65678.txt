@@ -1,0 +1,3 @@
+c:\code\cs\HelloWasm\HelloDotnet\bin\release\net7.0\win-x64\publish\HelloDotnet.dll
+c:\code\cs\HelloWasm\HelloDotnet\bin\release\net7.0\win-x64\publish\HelloDotnet.deps.json
+c:\code\cs\HelloWasm\HelloDotnet\bin\release\net7.0\win-x64\publish\HelloDotnet.pdb

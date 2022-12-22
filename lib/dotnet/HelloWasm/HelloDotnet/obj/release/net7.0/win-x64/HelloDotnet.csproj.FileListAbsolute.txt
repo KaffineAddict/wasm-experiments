@@ -1,0 +1,12 @@
+c:\code\cs\HelloWasm\HelloDotnet\bin\release\net7.0\win-x64\HelloDotnet.deps.json
+c:\code\cs\HelloWasm\HelloDotnet\bin\release\net7.0\win-x64\HelloDotnet.dll
+c:\code\cs\HelloWasm\HelloDotnet\bin\release\net7.0\win-x64\HelloDotnet.pdb
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\HelloDotnet.csproj.AssemblyReference.cache
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\HelloDotnet.AssemblyInfoInputs.cache
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\HelloDotnet.AssemblyInfo.cs
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\HelloDotnet.csproj.CoreCompileInputs.cache
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\HelloDotnet.dll
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\refint\HelloDotnet.dll
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\HelloDotnet.pdb
+c:\code\cs\HelloWasm\HelloDotnet\obj\release\net7.0\win-x64\ref\HelloDotnet.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQjAD51Kw6XPGDQW014sIGYMwDvMHN+knVerspjgWlwuNr0RtWvXSUcD4xqfcxn6ZH1CTOOqbkEMpOREm4G/Ug==",
+  "success": true,
+  "projectFilePath": "c:\\code\\cs\\HelloWasm\\HelloDotnet\\HelloDotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sutto\\.nuget\\packages\\microsoft.dotnet.ilcompiler.llvm\\7.0.0-preview.2.22621.1\\microsoft.dotnet.ilcompiler.llvm.7.0.0-preview.2.22621.1.nupkg.sha512",
+    "C:\\Users\\sutto\\.nuget\\packages\\runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm\\7.0.0-preview.2.22621.1\\runtime.browser-wasm.microsoft.dotnet.ilcompiler.llvm.7.0.0-preview.2.22621.1.nupkg.sha512",
+    "C:\\Users\\sutto\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler.llvm\\7.0.0-dev\\runtime.win-x64.microsoft.dotnet.ilcompiler.llvm.7.0.0-dev.nupkg.sha512"
+  ],
+  "logs": []
+}
